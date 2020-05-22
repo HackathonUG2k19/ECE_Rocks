@@ -1,2 +1,2 @@
 # ECE_Rocks
-The team ECE_Rocks this is your canvas for your project
+ECE_Rocks submission repo , only merge to this repo after work in your personal team repo (if you have one)
