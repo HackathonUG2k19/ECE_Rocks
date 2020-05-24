@@ -66,6 +66,29 @@ LINK:- https://iiitolx.herokuapp.com/
 
 3. Compatible for Cellphones too.
 
+ FURTHER IDEAS We can Add
+=================================
+
+1.  User can upload pictures rather than copying urls from internet
+
+2.  Distribute pages or renting,buying and selling
+
+3.  Add notification setting when there is a reply or query
+
+4.  Request Page
+
+5.  Add reply and delete option for replies also
+
+
+ Need of website
+=========================
+
+As you all know BAKUL HONESTY BOX was complete flop.
+
+We can use this site to run same type of service in which
+many people can keep different items in their room and sell
+it.This will not create burden on a single person and will be
+helpful for whole hostel not only for UG2K19.
 
  MOTIVATION
 ===================
