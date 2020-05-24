@@ -29,7 +29,7 @@ and sell options but we shall soon add new options like rent,lost,found,etc.
 ===================
 
 You just need to make sure you have Node.js installed.
-Open the Hackathon directory in your terminal and run
+Open the IIITOLX directory in your terminal and run
     
     $ npm install   // To install all the dependencies
 
