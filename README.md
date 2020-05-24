@@ -1,15 +1,12 @@
-
-IIIT-H OLX
-===============
-
-
+ IIIT-H OLX
+=============
 
 User can directly go to this link and check our website: https://iiitolx.herokuapp.com/
 
 Otherwise setup-information is mentioned below
 
 
- OUR PROJECT
+    OUR PROJECT
 ====================
 
 We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
@@ -25,7 +22,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 
- APP SETUP 
+    APP SETUP
 ===================
 
 You just need to make sure you have Node.js installed.
@@ -34,7 +31,7 @@ Open the IIITOLX directory in your terminal and run
     $ npm install   // To install all the dependencies
 
     For Mongodb server I have used MONGO ATLAS but I suggest
-    you to use your own mongodb server so that you disturb my
+    you to use your own mongodb server so that you don't disturb my
     personal account. But for testing purposes you are free to use mine
 
     To run the application locally on port 3000 run
@@ -42,7 +39,7 @@ Open the IIITOLX directory in your terminal and run
     $ node app.js
 
 
- DEPLOYING 
+    DEPLOYING
 ===================
 
 I recommend you to use HEROKU
@@ -60,21 +57,21 @@ BTW I already deployed it
 LINK:- https://iiitolx.herokuapp.com/
 
 
- SPECIAL FEATURES 
+    SPECIAL FEATURES
 =========================
 
 1. Those who are admins can delete and edit any post or query
     (Currenly "Him Agrawal" is the only admin but we can add more according to the need)
+    
+2. Site supports fuzzy search.
 
-2. Site supports fuzzy search
-
-3. Compatible for Cellphones too
+3. Compatible for Cellphones too.
 
 
- MOTIVATION 
+    MOTIVATION
 ===================
 
-When our group came to know about the 'Hackathon2k20' we decided to make a web application that 
+When our group came to ken about the 'HackAthon2k20' we decided to make a web application that 
 would not only basically be a cognition opportunity for us BUT also something that would actually 
 leave our mark on the IIIT community and help the future generations of students who are yet to come here. 
 IIIT community for all intents and purposes is one driven by the students. Our seniors before us literally 
@@ -86,4 +83,3 @@ that would tackle a real life problem. This was the humble beginning of our proj
 
 
    
-
