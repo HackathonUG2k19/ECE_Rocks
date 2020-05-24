@@ -47,7 +47,7 @@ Open the Hackathon directory in your terminal and run
 
 I recommend you to use HEROKU
 Make your account in HEROKU
-Open the Hackathon directory in your terminal and run
+Open the IIITOLX directory in your terminal and run
 
     $ git init
     $ git add .
