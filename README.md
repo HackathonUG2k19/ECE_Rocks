@@ -63,16 +63,18 @@ LINK:- https://iiitolx.herokuapp.com/
  SPECIAL FEATURES 
 =========================
 
-1  Those who are admins can delete and edit any post or query
-    // Currenly "Him Agrawal" is the only admin but we can add more according to the need
-2  Site supports fuzzy search
-3  Compatible for Cellphones too
+1. Those who are admins can delete and edit any post or query
+    (Currenly "Him Agrawal" is the only admin but we can add more according to the need)
+
+2. Site supports fuzzy search
+
+3. Compatible for Cellphones too
 
 
  MOTIVATION 
 ===================
 
-When our group came to ken about the 'HackAthon2k20' we decided to make a web application that 
+When our group came to know about the 'Hackathon2k20' we decided to make a web application that 
 would not only basically be a cognition opportunity for us BUT also something that would actually 
 leave our mark on the IIIT community and help the future generations of students who are yet to come here. 
 IIIT community for all intents and purposes is one driven by the students. Our seniors before us literally 
