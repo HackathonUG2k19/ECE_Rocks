@@ -1,11 +1,15 @@
+
 IIIT-H OLX
+===============
+
 
 
 User can directly go to this link and check our website: https://iiitolx.herokuapp.com/
+
 Otherwise setup-information is mentioned below
 
 
- Our Project
+ OUR PROJECT
 ====================
 
 We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
