@@ -1,7 +1,10 @@
-# IIIT-H OLX
+IIIT-H OLX
+
+User can directly go to this link and check our website: https://iiitolx.herokuapp.com/
+Otherwise setup-information is mentioned below
 
 ====================
-<!-- Our Project -->
+ Our Project
 ====================
 
 We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
@@ -17,7 +20,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 ===================
-<!-- APP SETUP -->
+ APP SETUP 
 ===================
 
 You just need to make sure you have Node.js installed.
@@ -34,7 +37,7 @@ Open the Hackathon directory in your terminal and run
     $ node app.js
 
 ===================
-<!-- DEPLOYING -->
+ DEPLOYING 
 ===================
 
 I recommend you to use HEROKU
@@ -51,30 +54,8 @@ Open the Hackathon directory in your terminal and run
 BTW I already deployed it 
 LINK:- https://iiitolx.herokuapp.com/
 
-=================================
-<!-- FURTHER IDEAS We can Add-->
-=================================
-
-1  User can upload pictures rather than copying urls from internet
-2  Distribute pages or renting,buying and selling
-3  Add notification setting when there is a reply or query
-4  Request Page
-5  Special page for paid users for other STUFFS // NO PUNS INTENDED
-6  Add reply and delete option for replies also
-
-=========================
-<!-- Need of website -->
-=========================
-
-As you all know BAKUL HONESTY BOX was complete flop.
-
-We can use this site to run sam etype of service in which
-many people can keep different items in their room and sell
-it.This will not create burden on a single person and will be
-helpful for whole hostel not only for UG2K19.
-
-=========================
-<!-- SPECIAL FEATURES -->
+========================= 
+ SPECIAL FEATURES 
 =========================
 
 1  Those who are admins can delete and edit any post or query
@@ -83,7 +64,7 @@ helpful for whole hostel not only for UG2K19.
 3  Compatible for Cellphones too
 
 ===================
-<!-- Motivation -->
+ MOTIVATION 
 ===================
 
 When our group came to ken about the 'HackAthon2k20' we decided to make a web application that 
