@@ -5,8 +5,7 @@ User can directly go to this link and check our website: https://iiitolx.herokua
 
 Otherwise setup-information is mentioned below
 
-
-    OUR PROJECT
+ OUR PROJECT
 ====================
 
 We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
@@ -22,7 +21,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 
-    APP SETUP
+ APP SETUP
 ===================
 
 You just need to make sure you have Node.js installed.
@@ -39,7 +38,7 @@ Open the IIITOLX directory in your terminal and run
     $ node app.js
 
 
-    DEPLOYING
+ DEPLOYING
 ===================
 
 I recommend you to use HEROKU
@@ -57,7 +56,7 @@ BTW I already deployed it
 LINK:- https://iiitolx.herokuapp.com/
 
 
-    SPECIAL FEATURES
+ SPECIAL FEATURES
 =========================
 
 1. Those who are admins can delete and edit any post or query
@@ -68,7 +67,7 @@ LINK:- https://iiitolx.herokuapp.com/
 3. Compatible for Cellphones too.
 
 
-    MOTIVATION
+ MOTIVATION
 ===================
 
 When our group came to ken about the 'HackAthon2k20' we decided to make a web application that 
