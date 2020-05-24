@@ -1,9 +1,10 @@
 IIIT-H OLX
 
+
 User can directly go to this link and check our website: https://iiitolx.herokuapp.com/
 Otherwise setup-information is mentioned below
 
-====================
+
  Our Project
 ====================
 
@@ -19,7 +20,7 @@ Once the seller has handed over the product to buyer and recieved the money,
 they can remove the item from the list of available items. Currently we support only buy 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
-===================
+
  APP SETUP 
 ===================
 
@@ -36,7 +37,7 @@ Open the Hackathon directory in your terminal and run
     
     $ node app.js
 
-===================
+
  DEPLOYING 
 ===================
 
@@ -54,7 +55,7 @@ Open the Hackathon directory in your terminal and run
 BTW I already deployed it 
 LINK:- https://iiitolx.herokuapp.com/
 
-========================= 
+
  SPECIAL FEATURES 
 =========================
 
@@ -63,7 +64,7 @@ LINK:- https://iiitolx.herokuapp.com/
 2  Site supports fuzzy search
 3  Compatible for Cellphones too
 
-===================
+
  MOTIVATION 
 ===================
 
